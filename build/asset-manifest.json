@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ImAditya/static/css/main.b100e6da.chunk.css",
+    "main.js": "/ImAditya/static/js/main.382da86b.chunk.js",
+    "main.js.map": "/ImAditya/static/js/main.382da86b.chunk.js.map",
+    "runtime-main.js": "/ImAditya/static/js/runtime-main.15924f73.js",
+    "runtime-main.js.map": "/ImAditya/static/js/runtime-main.15924f73.js.map",
+    "static/js/2.342059ab.chunk.js": "/ImAditya/static/js/2.342059ab.chunk.js",
+    "static/js/2.342059ab.chunk.js.map": "/ImAditya/static/js/2.342059ab.chunk.js.map",
+    "index.html": "/ImAditya/index.html",
+    "precache-manifest.96b01d85592e24db9672b81728a9243c.js": "/ImAditya/precache-manifest.96b01d85592e24db9672b81728a9243c.js",
+    "service-worker.js": "/ImAditya/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/ImAditya/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/ImAditya/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15924f73.js",
+    "static/js/2.342059ab.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.382da86b.chunk.js"
+  ]
+}
