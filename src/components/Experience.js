@@ -23,7 +23,7 @@ class Experience extends Component {
 					               </div>
 
 					               <div className="timeline-label">
-					                  <h2><a href="https://industry-4nsv.herokuapp.com/">INDUSTRY4-NSV | Software Engineering Intern</a> <span>June 2020 - Present</span></h2>
+					                  <h2><a href="https://industry-4nsv.herokuapp.com/">INDUSTRY4-NSV | Software Engineering Intern</a> <span>June 2020 - Nov 2020</span></h2>
 					                  <p>It's a web application for providing role-based data handling solutions for the company. 
 										 Backend is based on NodeJs and JWT authentication system along with the non-relational MongoDB database. ReactJS is used for client-side activities.
 									 </p>

@@ -45,13 +45,13 @@ function App() {
 				<p>
 					<small> This website is made by 
 					  <br></br>
-					 <a href="https://imaditya.herokuapp.com/" target="_blank"> Aditya Shankar Mishra</a>
+					 <a href="https://imaditya.ml/" target="_blank"> Aditya Shankar Mishra</a>
                    </small>
 				</p>
 				<ul>
 					<li><a href="https://www.facebook.com/adityashankar.mishra"><i className="icon-facebook2"></i></a></li>
 					<li><a href="https://www.instagram.com/mishraadityashankar/"><i className="icon-instagram"></i></a></li>
-					<li><a href="https://www.linkedin.com/in/aditya-shankar-mishra-258aa9179/"><i className="icon-linkedin2"></i></a></li>
+					<li><a href="https://www.linkedin.com/in/aditya-shankar-mishra/"><i className="icon-linkedin2"></i></a></li>
 				</ul>
 			</div>
 
